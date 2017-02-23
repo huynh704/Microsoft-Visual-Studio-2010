@@ -1,0 +1,8 @@
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\SerialPortCustomList\SerialPortCustomList\bin\Debug\SerialPortCustomList.exe
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\SerialPortCustomList\SerialPortCustomList\bin\Debug\SerialPortCustomList.pdb
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\SerialPortCustomList\SerialPortCustomList\obj\x86\Debug\SerialPortCustomList.frnSerial.resources
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\SerialPortCustomList\SerialPortCustomList\obj\x86\Debug\SerialPortCustomList.Properties.Resources.resources
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\SerialPortCustomList\SerialPortCustomList\obj\x86\Debug\SerialPortCustomList.csproj.GenerateResource.Cache
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\SerialPortCustomList\SerialPortCustomList\obj\x86\Debug\SerialPortCustomList.exe
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\SerialPortCustomList\SerialPortCustomList\obj\x86\Debug\SerialPortCustomList.pdb
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\SerialPortCustomList\SerialPortCustomList\obj\x86\Debug\SerialPortCustomList.csprojResolveAssemblyReference.cache

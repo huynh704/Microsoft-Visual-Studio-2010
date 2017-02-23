@@ -1,0 +1,8 @@
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\Termite\Termite\bin\Debug\Termite.exe
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\Termite\Termite\bin\Debug\Termite.pdb
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\Termite\Termite\obj\x86\Debug\Termite.Form1.resources
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\Termite\Termite\obj\x86\Debug\Termite.Properties.Resources.resources
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\Termite\Termite\obj\x86\Debug\Termite.csproj.GenerateResource.Cache
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\Termite\Termite\obj\x86\Debug\Termite.exe
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\Termite\Termite\obj\x86\Debug\Termite.pdb
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\Termite\Termite\obj\x86\Debug\Termite.csprojResolveAssemblyReference.cache

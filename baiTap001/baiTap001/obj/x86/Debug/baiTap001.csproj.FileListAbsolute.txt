@@ -1,0 +1,7 @@
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\baiTap001\baiTap001\bin\Debug\baiTap001.exe
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\baiTap001\baiTap001\bin\Debug\baiTap001.pdb
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\baiTap001\baiTap001\obj\x86\Debug\baiTap001.frmCouter.resources
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\baiTap001\baiTap001\obj\x86\Debug\baiTap001.Properties.Resources.resources
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\baiTap001\baiTap001\obj\x86\Debug\baiTap001.csproj.GenerateResource.Cache
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\baiTap001\baiTap001\obj\x86\Debug\baiTap001.exe
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\baiTap001\baiTap001\obj\x86\Debug\baiTap001.pdb

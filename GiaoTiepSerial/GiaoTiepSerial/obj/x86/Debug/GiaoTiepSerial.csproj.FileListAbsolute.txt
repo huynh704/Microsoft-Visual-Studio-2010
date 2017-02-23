@@ -1,0 +1,7 @@
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\GiaoTiepSerial\GiaoTiepSerial\bin\Debug\GiaoTiepSerial.exe
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\GiaoTiepSerial\GiaoTiepSerial\bin\Debug\GiaoTiepSerial.pdb
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\GiaoTiepSerial\GiaoTiepSerial\obj\x86\Debug\GiaoTiepSerial.frmSerial.resources
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\GiaoTiepSerial\GiaoTiepSerial\obj\x86\Debug\GiaoTiepSerial.Properties.Resources.resources
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\GiaoTiepSerial\GiaoTiepSerial\obj\x86\Debug\GiaoTiepSerial.csproj.GenerateResource.Cache
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\GiaoTiepSerial\GiaoTiepSerial\obj\x86\Debug\GiaoTiepSerial.exe
+C:\Users\HUYNH\OneDrive\Documents\Visual_Study\GiaoTiepSerial\GiaoTiepSerial\obj\x86\Debug\GiaoTiepSerial.pdb
